@@ -1,0 +1,35 @@
+.jumbotron {
+  text-align: center;
+  color: #fcaca3;
+}
+#inputFood {
+  background-color: #fdccc7;
+}
+#inputPrice {
+  background-color: #fdccc7;
+}
+.col-md-12 {
+  margin: auto;
+  text-align: center;
+}
+.form-inline {
+  width: 15em;
+  margin: 0 auto;
+}
+ul {
+  width: 15em;
+  margin: 5px auto;
+}
+li {
+  margin-left: -20px;
+}
+ul li:nth-child(even) {
+  color: #fcaca3;
+}
+ul li:nth-child(odd) {
+  color: #f85441;
+}
+.btn {
+  margin-top: 5px;
+  margin-bottom: 17px;
+}

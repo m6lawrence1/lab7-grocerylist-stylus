@@ -59,7 +59,7 @@ function myFunction() {
   food.insertBefore(foodItem, food.firstChild); //appends 'foodItem' before firstChild of id 'food'
   
 
-  var foodPriceNum = Number(inputPrice); // converts string value of 'inputPrice' in order to add prices together
+  var foodPriceNum = Number(inputPrice); // converts string value of 'inputPrice' to a number in order to add prices together
 
   var listTotal= document.getElementById("salmon"); // sets variable 'listTotal' to value of id ''
 
